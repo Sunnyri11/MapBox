@@ -4,7 +4,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import { initializeApp, getApps } from "firebase/app";
 import { getDatabase, ref, onValue } from "firebase/database";
 
-mapboxgl.accessToken = 'pk.eyJ1IjoibGlhbmFyaSIsImEiOiJjbW01bjlsd2wwMnUyMnFxNHV3YjcyZmR1In0.2Oij-VtaQqoBIA-GvuydGg';
+
 
 const firebaseConfig = {
   apiKey: "AIzaSyAh7cgObhkQmdg3U5A_g7LJHHISZHYzVVU",
