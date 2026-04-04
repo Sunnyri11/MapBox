@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "firebase": "^12.10.0",
-    "mapbox-gl": "^3.19.0",
+    "@mapbox/mapbox-gl-draw": "^1.5.1",
+    "@turf/boolean-point-in-polygon": "^7.3.4",
+    "@turf/helpers": "^7.3.4",
+    "firebase": "^12.11.0",
+    "mapbox-gl": "^3.21.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
